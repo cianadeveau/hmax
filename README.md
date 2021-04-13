@@ -9,6 +9,6 @@
 Models can be referenced in 'run_imagenet.py' and run on Oscar CCV using this code. In order to run this on imagenet in other platforms, the data directory would have to be changed to where imagenet is stored. 
 
 ### Example:
-'''
+```
 python run_imagenet.py --epochs 90 -b 382 -j 16
-'''
+```
