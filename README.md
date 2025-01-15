@@ -1,4 +1,4 @@
-# Deep Learning HMAX Models for the Serre Lab
+# Deep Learning HMAX Model
 
 ## Pytorch Models
 1. Pytorch version of the Zelinsky DeepHMAX from: https://doi.org/10.1080/13506285.2019.1661927 
